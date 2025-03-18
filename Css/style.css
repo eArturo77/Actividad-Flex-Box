@@ -1,0 +1,31 @@
+nav a {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+}
+   
+nav a:hover
+ {
+    text-decoration:underline;
+}
+nav 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly ;
+    border: solid black;
+}
+nav img 
+{
+    width: 100px;
+}
+main 
+{
+    text-align: center;
+}
+main img 
+{
+    width: 500px;
+    float: initial;
+}
+
