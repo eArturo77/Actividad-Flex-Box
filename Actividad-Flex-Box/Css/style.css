@@ -1,0 +1,45 @@
+nav a {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+   
+nav a:hover
+ {
+    text-decoration:underline;
+}
+nav 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly ;
+    background-color: black;
+}
+nav img 
+{
+    width: 100px;
+}
+main 
+{
+    text-align: center;
+}
+main img 
+{
+    width: 500px;
+    float: initial;
+}
+
+body 
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+footer 
+{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+
